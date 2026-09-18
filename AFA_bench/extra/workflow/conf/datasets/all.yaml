@@ -1,0 +1,17 @@
+datasets:
+  - actg
+  - cube_nm
+  - cube_nm_without_noise
+  - bank_marketing
+  - ckd
+  - cube
+  - cube_without_noise
+  - cube_nonuniform_costs
+  - diabetes
+  - miniboone
+  - physionet
+  - synthetic_mnist
+  - synthetic_mnist_without_noise
+  - mnist
+  - fashion_mnist
+  - imagenette
