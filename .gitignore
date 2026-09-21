@@ -6,3 +6,6 @@ __pycache__/
 
 data/
 outputs/
+
+/.venv-diaformer-notebook/
+/diaformer/Diaformer_source/
