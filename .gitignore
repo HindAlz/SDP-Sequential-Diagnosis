@@ -9,3 +9,5 @@ outputs/
 
 /.venv-diaformer-notebook/
 /diaformer/Diaformer_source/
+
+/AFA_bench/

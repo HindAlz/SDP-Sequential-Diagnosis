@@ -1,4 +1,0 @@
-datasets:
-  - cube_nm_without_noise
-  - cube_without_noise
-  - synthetic_mnist_without_noise
