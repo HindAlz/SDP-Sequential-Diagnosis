@@ -11,3 +11,6 @@ outputs/
 /diaformer/Diaformer_source/
 
 /AFA_bench/
+
+/.venv-oracle/
+/AFA_oracle_source/
