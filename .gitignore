@@ -15,3 +15,8 @@ outputs/
 /.venv-oracle/
 /AFA_oracle_source/
 afabench/
+Casande-RL/
+diaformer/diaformer.ipynb
+utilities/data_analysis/diagnosis_feature_correlations.csv
+utilities/data_analysis/diagnosis_question_matches.csv
+.venv312/
