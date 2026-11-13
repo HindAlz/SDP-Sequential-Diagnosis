@@ -16,6 +16,7 @@ outputs/
 /AFA_oracle_source/
 afabench/
 Casande-RL/
+Casande-RLold/
 diaformer/diaformer.ipynb
 utilities/data_analysis/diagnosis_feature_correlations.csv
 utilities/data_analysis/diagnosis_question_matches.csv
